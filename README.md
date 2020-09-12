@@ -1,5 +1,37 @@
-# Javascript Mini Projects
+# Javascript Projects
 
+# Projects
+* Countdown
+  * A Countdown Timer
+* Counter
+  * A Counter 
+* Grocery
+  * A Grocery list maker
+* Lorem
+  * Print out a number/random amount of [Lorem Ipsum](https://www.google.com/search?q=what+is+lorem+ipsum+text&oq=what+is+lorem+te&aqs=chrome.1.69i57j0l3.4601j0j1&sourceid=chrome&ie=UTF-8) text. 
+* Menu
+  * A online menu with a filter system
+* Model
+  * h
+* NavBar
+  * A simple navbar
+* Questions
+  * A
+* Randomcolor
+  * A Randomcolor generator
+* Review
+  * A Countdown Timer
+* Scroll
+  * A homepage that allows you to scroll to a specfic section once clicked on in the navbar
+* Sidebars
+  * A simple side navbar 
+* Slider
+  * A Slider 
+* Tabs
+  * A Tabs
+* Video
+  * A Video background 
+  
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for testing purposes
 
