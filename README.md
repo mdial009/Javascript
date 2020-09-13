@@ -16,7 +16,8 @@
 * NavBar
   * A simple navbar
 * Questions
-  * A
+ <img src="https://github.com/mdial009/Javascript/blob/master/images/Questions.gif">
+ 
 * Randomcolor
   * A Randomcolor generator
 * Review
