@@ -10,28 +10,28 @@
 * Lorem
   * Print out a number/random amount of [Lorem Ipsum](https://www.google.com/search?q=what+is+lorem+ipsum+text&oq=what+is+lorem+te&aqs=chrome.1.69i57j0l3.4601j0j1&sourceid=chrome&ie=UTF-8) text. 
 * Menu
-  * A online menu with a filter system
+   <img src="https://github.com/mdial009/Javascript/blob/master/images/Menu.gif">
 * Modal
-  * h
+   <img src="https://github.com/mdial009/Javascript/blob/master/images/Modal.gif">
 * NavBar
   * A simple navbar
 * Questions
  <img src="https://github.com/mdial009/Javascript/blob/master/images/Questions.gif">
- 
+
 * Randomcolor
-  * A Randomcolor generator
-* Review
-  * A Countdown Timer
+   <img src="https://github.com/mdial009/Javascript/blob/master/images/Randomcolor.gif">
+* Reviews
+   <img src="https://github.com/mdial009/Javascript/blob/master/images/Reviews.gif">
 * Scroll
-  * A homepage that allows you to scroll to a specfic section once clicked on in the navbar
+   <img src="https://github.com/mdial009/Javascript/blob/master/images/Scroll.gif">
 * Sidebars
   * A simple side navbar 
 * Slider
-  * A Slider 
+   <img src="https://github.com/mdial009/Javascript/blob/master/images/Slider.gif">
 * Tabs
-  * A Tabs
+   <img src="https://github.com/mdial009/Javascript/blob/master/images/Tabs.gif">
 * Video
-  * A Video background 
+   <img src="https://github.com/mdial009/Javascript/blob/master/images/Video.gif">
   
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for testing purposes
