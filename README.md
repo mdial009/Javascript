@@ -2,16 +2,16 @@
 
 # Projects
 * Countdown
-  * A Countdown Timer
+  * A Countdown Timer(useful with things like a giveaway)
 * Counter
-  * A Counter 
+  * A Counter, increase and decrease or reset it back to zero
 * Grocery
   * A Grocery list maker
 * Lorem
   * Print out a number/random amount of [Lorem Ipsum](https://www.google.com/search?q=what+is+lorem+ipsum+text&oq=what+is+lorem+te&aqs=chrome.1.69i57j0l3.4601j0j1&sourceid=chrome&ie=UTF-8) text. 
 * Menu
   * A online menu with a filter system
-* Model
+* Modal
   * h
 * NavBar
   * A simple navbar
