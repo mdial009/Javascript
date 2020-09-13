@@ -4,9 +4,9 @@
 * Countdown
   * A Countdown Timer(useful with things like a giveaway)
 * Counter
-  * A Counter, increase and decrease or reset it back to zero
+   <img src="https://github.com/mdial009/Javascript/blob/master/images/Counter.gif">
 * Grocery
-  * A Grocery list maker
+   <img src="https://github.com/mdial009/Javascript/blob/master/images/Grocery.gif">
 * Lorem
   * Print out a number/random amount of [Lorem Ipsum](https://www.google.com/search?q=what+is+lorem+ipsum+text&oq=what+is+lorem+te&aqs=chrome.1.69i57j0l3.4601j0j1&sourceid=chrome&ie=UTF-8) text. 
 * Menu
