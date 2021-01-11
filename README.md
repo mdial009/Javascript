@@ -3,6 +3,7 @@
 # Projects
 * Countdown
   * A Countdown Timer(useful with things like a giveaway)
+     <img src="https://github.com/mdial009/Javascript/blob/master/images/Countdown.gif">
 * Counter
    <img src="https://github.com/mdial009/Javascript/blob/master/images/Counter.gif">
 * Grocery
