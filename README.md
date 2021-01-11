@@ -25,8 +25,10 @@
  <img src="https://github.com/mdial009/Javascript/blob/master/images/Questions.gif">
 
 * Randomcolor
+  * Randomcolors
    <img src="https://github.com/mdial009/Javascript/blob/master/images/Randomcolor.gif">
 * Reviews
+  * Reviews
    <img src="https://github.com/mdial009/Javascript/blob/master/images/Reviews.gif">
 * Scroll
    <img src="https://github.com/mdial009/Javascript/blob/master/images/Scroll.gif">
